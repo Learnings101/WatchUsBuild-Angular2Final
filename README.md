@@ -26,6 +26,10 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 Run `ng github-pages:deploy` to deploy to Github Pages.
 
-## Further help
+## Further help / Resources
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+https://cli.angular.io/
+https://angular.io/docs/ts/latest/cookbook/component-communication.html
+https://angular.io/docs/ts/latest/guide/router.html
